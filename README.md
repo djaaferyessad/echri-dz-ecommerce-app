@@ -1,16 +1,42 @@
-# ecommerseapp
+# Echri Dz – E-commerce App 🛒
 
-A new Flutter project.
+**Echri Dz** is a modern e-commerce mobile application developed using **Flutter** and **Firebase**. It provides users with a clean and seamless shopping experience, featuring all the essential functionalities of a typical online store.
 
-## Getting Started
+## 🚧 Project Status
 
-This project is a starting point for a Flutter application.
+🔧 This project is currently **under active development**.
 
-A few resources to get you started if this is your first Flutter project:
+## 🌟 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- User registration & login (Firebase Auth)
+- Product browsing & search
+- Product detail pages
+- Shopping cart management
+- Order placement & tracking
+- Firebase Firestore for product and order data
+- Cloud Storage for product images
+- Responsive and clean UI design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter (Dart)
+- **Backend-as-a-Service:** Firebase
+  - Firebase Authentication
+  - Cloud Firestore
+  - Firebase Storage
+  - Cloud Functions (planned)
+
+## 📦 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/echri-dz.git
+
+# Navigate into the project
+cd echri-dz
+
+# Get Flutter packages
+flutter pub get
+
+# Run the app
+flutter run
